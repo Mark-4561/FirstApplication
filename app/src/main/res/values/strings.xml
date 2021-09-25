@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">我的第一个应用</string>
+    <string name="initGreeting">我喜欢Android开发</string>
+    <string name="text_view_hello_world">你好Android</string>
+    <string name="hello">hello</string>
+    <string name="world">world</string>
+    <string name="btn1">switch</string>
+</resources>
